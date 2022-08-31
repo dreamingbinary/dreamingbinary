@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com_dreamingbinary&left_color=green&right_color=red)
 <!--
 **dreamingbinary/dreamingbinary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
